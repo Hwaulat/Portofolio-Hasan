@@ -20,7 +20,8 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/Web tcf.png",
+      image: "/Web Tcf.png",
+      video: "",
     },
     {
       title: "Design Project Maintenance Management System Mobile App",
@@ -40,6 +41,7 @@ export const DATA = {
         },
       ],
       image: "/Mobile Tcf.png",
+      video: "",
     },
     {
       title: "Design Project Maintenance Checklist Mobile App",
@@ -59,6 +61,7 @@ export const DATA = {
         },
       ],
       image: "/Sharp Mobile.png",
+      video: "",
     },
     {
       title: "Design Concept Web Admin QC System",
@@ -78,6 +81,7 @@ export const DATA = {
         },
       ],
       image: "/QC System.png",
+      video: "",
     },
     {
       title: "Design Concept Web Task Management",
@@ -97,6 +101,7 @@ export const DATA = {
         },
       ],
       image: "/Task Management.png",
+      video: "",
     },
     {
       title: "Design Project Mattel Responsive Mobile",
@@ -116,6 +121,7 @@ export const DATA = {
         },
       ],
       image: "/Mattel Mobile.png",
+      video: "",
     },
     {
       title: "Design Project Mattel Responsive Web",
@@ -135,6 +141,7 @@ export const DATA = {
         },
       ],
       image: "/Mattel Web.png",
+      video: "",
     },
     {
       title: "Design Concept MRP Software",
@@ -154,6 +161,7 @@ export const DATA = {
         },
       ],
       image: "/MRP.png",
+      video: "",
     },
     {
       title: "Design Concept Web Admin E-Logistic & Andon",
@@ -173,6 +181,7 @@ export const DATA = {
         },
       ],
       image: "/E-logistic web.png",
+      video: "",
     },
     {
       title: "Design Concept Ipad E-Logistic",
@@ -192,6 +201,7 @@ export const DATA = {
         },
       ],
       image: "/E-logistic tablet.png",
+      video: "",
     },
     {
       title: "Website Ranisha Beauty",
@@ -213,6 +223,7 @@ export const DATA = {
         }
       ],
       image: "/Ranisha.png",
+      video: "",
     },
     {
       title: "Design Concept Web Admin Carrective Action Request",
@@ -232,6 +243,7 @@ export const DATA = {
         },
       ],
       image: "/Mayora.png",
+      video: "",
     },
     {
       title: "Website Sabea",
@@ -253,6 +265,7 @@ export const DATA = {
         },
       ],
       image: "/Sabea.png",
+      video: "",
     },
     {
       title: "Landing Page Digimarly",
@@ -273,6 +286,7 @@ export const DATA = {
         },
       ],
       image: "/mac.png",
+      video: "",
     },
     {
       title: "Design Website Warehouse Management",
@@ -292,6 +306,7 @@ export const DATA = {
         },
       ],
       image: "/Warehouse management.png",
+      video: "",
     },
     {
       title: "Landing Page Groperti Mobile",
@@ -311,6 +326,7 @@ export const DATA = {
         },
       ],
       image: "/Groperti Mobile.png",
+      video: "",
     },
     {
       title: "Landing Page Groperti Web",
@@ -330,6 +346,7 @@ export const DATA = {
         },
       ],
       image: "/Groperti Web.png",
+      video: "",
     },
     {
       title: "Landing Page Groperti Ipad",
@@ -349,6 +366,7 @@ export const DATA = {
         },
       ],
       image: "/Groperti Ipad.png",
+      video: "",
     },
     {
       title: "Design Landing Page",
@@ -368,6 +386,7 @@ export const DATA = {
         },
       ],
       image: "/Blueprint.png",
+      video: "",
     },
     {
       title: "Redesign Website Zonaebt",
@@ -387,6 +406,7 @@ export const DATA = {
         },
       ],
       image: "/Zonaebt.png",
+      video: "",
     },
     {
       title: "Case Study : Mobile App JagolinkedIn",
@@ -406,6 +426,7 @@ export const DATA = {
         },
       ],
       image: "/Jagolinkedin.png",
+      video: "",
     },
     {
       title: "Case Study : Landing Page JagolinkedIn",
@@ -425,6 +446,7 @@ export const DATA = {
         },
       ],
       image: "/web jagolinkedin.png",
+      video: "",
     },
     {
       title: "Redesign Aplikasi MyAgrii",
@@ -447,6 +469,7 @@ export const DATA = {
         },
       ],
       image: "/My Agri.png",
+      video: "",
     },
     {
       title: "Redesign Aplikasi JDIH Kemenkeu",
@@ -466,6 +489,7 @@ export const DATA = {
         },
       ],
       image: "/JDIH Kemenkeu.png",
+      video: "",
     },
     {
       title: "Food Delivery App",
@@ -485,6 +509,7 @@ export const DATA = {
         },
       ],
       image: "/Food Delivery.png",
+      video: "",
     },
     {
       title: "Design Financial Management App",
@@ -507,6 +532,7 @@ export const DATA = {
         },
       ],
       image: "/Money.png",
+      video: "",
     },
     {
       title: "Case Study E-Commerce : Uswah Shop",
@@ -527,6 +553,7 @@ export const DATA = {
         },
       ],
       image: "/Uswah Shop.png",
+      video: "",
     },
     {
       title: "Redesign Landing Page FundEx",
@@ -546,6 +573,7 @@ export const DATA = {
         },
       ],
       image: "/Fundex.png",
+      video: "",
     },
     {
       title: "Mobile App & Website SID Hitulama",
@@ -568,6 +596,7 @@ export const DATA = {
         },
       ],
       image: "/SID-Web.png",
+      video: "",
     },
     {
         title: "Redesign myUMM for Student",
@@ -589,6 +618,7 @@ export const DATA = {
           },
         ],
         image: "/Myumm.png",
+        video: "",
       },
   ],
 } as const;
